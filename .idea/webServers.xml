@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="644be5df-aa0e-4406-af82-2f0f84f1362f" name="b16_18989341 bill byethost16" url="http://bill.byethost16.com">
+        <fileTransfer host="ftp.byethost16.com" port="21" rootFolder="/htdocs" password="dfc1dfcbdfc4dfc0dfdfdfe1dfc2dfcbdfc4df99df9d" username="b16_18989341">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
