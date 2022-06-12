@@ -17,6 +17,11 @@ Bill Split
 
 https://youtu.be/Btd0KhBo3V4
 
+## Sample Pictures
+![image](https://user-images.githubusercontent.com/13853450/173246340-824e70d8-f208-467f-872c-89269c2acd39.png)
+![image](https://user-images.githubusercontent.com/13853450/173246358-83b95c24-0055-452e-a091-b8bf6b8dffd0.png)
+![image](https://user-images.githubusercontent.com/13853450/173246369-296fe997-ada8-4103-94d4-997fa62bdc4a.png)
+![image](https://user-images.githubusercontent.com/13853450/173246392-2fba6c43-e49d-44e3-9f4d-507f18a0c48b.png)
 
 ## Getting Started
 
