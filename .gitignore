@@ -1,3 +1,2 @@
-*.xml
-*.iml
-*.name
+
+/node_modules
