@@ -13,7 +13,9 @@ This Repo is for creating a sharing application. We use this application to spli
 
 Bill Split
 
-# Live Demo
+# Live Demo Watch on youtube
+
+https://youtu.be/Btd0KhBo3V4
 
 
 ## Getting Started
@@ -49,21 +51,12 @@ $ cd project_name
 ```
 #### No restraction  on usage.
 
-### Run tests
-
-There is a test file (linters.yml) for this project inside the .github/workflows folder.
-
-It executes three types of tests inside github actions.
-
-1.lighthouse
-1.webhint
-1.stylint
 
 ### Deployment
 
-It can run on any browser. 
-Mobile Screen size below < 786
-Desktop Screen Size above >786
+- Clone the application inside the WWW folder (Wamp) or htdocs depends on your environment.
+- Import the Database file to your sql server. (mysql in case of Wamp)
+- Default credentail username and password = admin
 
 ## Author
 
@@ -82,11 +75,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- This file is adopted from Microverse. Thanks for assome there work.
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.

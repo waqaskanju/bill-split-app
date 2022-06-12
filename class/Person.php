@@ -56,8 +56,6 @@ class Person
         $this->wzr_share = $wzr;
 
 
-        $total_share = $this->wsk_share;
-
         $total_share = $this->wsk_share + $this->imd_share + $this->ijz_share + $this->brk_share + $this->nwb_share +
             $this->isn_share + $this->jal_share + $this->kas_share + $this->nsr_share + $this->isr_share + $this->yas_share +
             $this->nwbc_share + $this->ans_share + $this->mhb_share + $this->mus_share + $this->isq_share + $this->asf_share + $this->irf_share + $this->nae_share + $this->wzr_share;
