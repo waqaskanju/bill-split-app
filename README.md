@@ -1,6 +1,6 @@
 # Sample Repo
 
-This Repo is for creating a sharing application. We use this application to split the bill between our friends we were living in hostel.
+This Repo is for creating a sharing application. We use this application to split the bill between our friends we were living in hostel. It show the credit and debit of each/all the person(s). It shows what items are used. How much money is consumed at a particular instance of time. 
 
 ## Built With
 
